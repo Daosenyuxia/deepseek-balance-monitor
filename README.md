@@ -3,7 +3,8 @@
 [English](README.md) | [简体中文](README.zh-CN.md)
 
 A dsh web plugin that monitors your DeepSeek account balance:
-
+<img width="184" height="83" alt="屏幕截图 2026-08-21 140545" src="https://github.com/user-attachments/assets/5edd1864-cba3-4655-99a2-9eeb67a91173" />
+<img width="183" height="83" alt="屏幕截图 2026-08-21 140509" src="https://github.com/user-attachments/assets/3e1f466a-b017-44c5-8e4f-d649bcf339bd" />
 - **Bottom-right balance badge** (`shell.overlay` slot): shows the latest
   balance with a status dot, the last-updated time, and — at the far right of
   the badge — a **circular-arrow manual refresh button** that spins while a
