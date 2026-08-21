@@ -2,7 +2,7 @@
 
 [简体中文](README.md) | [English](README.en.md)
 
-一个 dsh web 插件，用于监控你的 DeepSeek 账户余额：
+一个 Deepseek Harness 插件，用于监控你的 DeepSeek 账户余额：
 
 <img width="191" height="77" alt="屏幕截图 2026-08-21 140459" src="https://github.com/user-attachments/assets/e0dc51e7-5493-44fa-b7e8-a6d9ef827324" />
 
