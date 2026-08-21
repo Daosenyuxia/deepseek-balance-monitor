@@ -1,5 +1,7 @@
 # deepseek-balance-monitor
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 A dsh web plugin that monitors your DeepSeek account balance:
 
 - **Bottom-right balance badge** (`shell.overlay` slot): shows the latest
