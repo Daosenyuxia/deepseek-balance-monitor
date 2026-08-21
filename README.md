@@ -4,8 +4,6 @@
 
 一个 dsh web 插件，用于监控你的 DeepSeek 账户余额：
 
-<img width="184" height="83" alt="屏幕截图 2026-08-21 140545" src="https://github.com/user-attachments/assets/4af06e4e-0cec-45fe-968b-6766b34eabbf" />
-<img width="183" height="83" alt="屏幕截图 2026-08-21 140509" src="https://github.com/user-attachments/assets/cf2e3f50-597f-4897-85a2-20d3d72896fb" />
 <img width="191" height="77" alt="屏幕截图 2026-08-21 140459" src="https://github.com/user-attachments/assets/e0dc51e7-5493-44fa-b7e8-a6d9ef827324" />
 
 - **右下角余额角标**（`shell.overlay` 槽位）：显示最新余额、状态点、最近更新时间，以及角标最右侧的**圆形箭头手动刷新按钮**——点击后图标带旋转动画（至少转 650ms，保证肉眼可见）。
