@@ -1,0 +1,7 @@
+# deepseek-balance-monitor bundle patch: inserts its public dsh.client entry
+# into the web plugin roster. Install it with
+# `dsh plugin --profile <name> add <path-or-git-url>`; the plugin starts a
+# balance-monitoring service on DSH boot and shows a bottom-right badge.
+- insert:
+    - id: deepseek-balance-monitor
+      name: '@dsh-external/deepseek-balance-monitor'

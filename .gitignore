@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+
+# Build artifacts (regenerate with `pnpm build`)
+lib/
+
+# Logs and local scratch
+*.log
